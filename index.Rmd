@@ -164,6 +164,10 @@ Wenn Sie sich vom zweiten Teil einer zweiteiligen Standardstudie abmelden, wird 
 
 Grundsätzlich müssen Sie für die Teilnahme an psychologischen Studien in Sona mindestens 18 Jahre alt sein. Für manche Studien gibt es darüber hinaus weitere Voraussetzungen. Diese sind im Abschnitt `Teilnahmevoraussetzungen` jeder Studie aufgeführt, den Sie in der Überblicksansicht (wenn Sie im Hauptmenü `Verfügbare Studien anzeigen` anklicken) in der rechten Spalte finden. Wenn Sie auf die Detailansicht einer Studie gehen (dafür den Titel der Studie anklicken), sehen Sie die Teilnahmevoraussetzungen zudem im Abschnitt `Teilnahmevoraussetzungen`. 
 
+```{r echo = FALSE, out.width='92%', fig.align='center'}
+knitr::include_graphics('images/Folie13.png')
+```
+
 
 
 ## Welche Arten von Studien gibt es? 
