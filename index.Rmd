@@ -6,12 +6,11 @@ site: bookdown::bookdown_site
 documentclass: book
 bibliography: [packages.bib]
 url: https://amd-lab.github.io/sona-researcher-jgu/index.html
-# cover-image: path to the social sharing image like images/cover.jpg
+#cover-image: path to the social sharing image like images/cover.jpg
 description: "Dies ist das Versuchspersonen-Handbuch für Sona Systems des psychologischen Instituts der JGU Mainz"
 link-citations: yes
-github-repo:  AMD-Lab/sona-vp-jgu
+github-repo:  AMD-Lab/sona-participants-jgu
 lang: de
-
 ---
 
 ```{r include=FALSE}
@@ -22,7 +21,7 @@ options(warning.length = 100)
 
 # Allgemeine Informationen
 
-Dies ist das Sona-Handbuch für Versuchspersonen. Falls Sie Forscher\*in sind, gelangen Sie hier (Link) zum Sona-Handbuch für Forscher\*innen.
+Dies ist das Sona-Handbuch für Versuchspersonen. Falls Sie Forscher\*in sind, gelangen Sie hier (https://amd-lab.github.io/sona-researcher-jgu.html) zum Sona-Handbuch für Forscher\*innen.
 
 Sona Website der Universität Mainz: https://uni-mainz-jgu.sona-systems.com
 
@@ -48,9 +47,29 @@ Nein, mit einem Versuchspersonen-Account können Sie selbst keine Studien einste
 
 # Erste Schritte
 
-## Wie erstelle ich einen Account bei Sona?
+## Wie erstelle ich einen Account als Student\*in der JGU? 
 
-1.	Klicken Sie bitte zunächst auf folgenden Link: https://uni-mainz-jgu.sona-systems.com. 
+1.	Besuchen Sie Sona unter folgendem Link: https://uni-mainz-jgu.sona-systems.com. 
+2.	Klicken Sie auf `Mit JGU-Account Einloggen`.
+
+```{r echo = FALSE, out.width='92%', fig.align='center'}
+knitr::include_graphics('images/Folie1a.png')
+```
+
+3. Sie werden nun auf eine Seite der Uni Mainz weitergeleitet. Geben Sie dort bitte Ihren JGU-Benutzernamen
+(der Teil Ihrer JGU E-Mail-Adresse vor dem "@") und das dazugehörige Passwort ein. 
+4. Akzeptieren Sie auf der nächsten Seite die Informationsweitergabe an Sona. Sie können ganz unten die Dauer festlegen, für die Ihre Entscheidung zur Informationsweitergabe gültig sein soll.
+5. Auf der nächsten Seite müssen Sie einige Angaben zu Ihrem Account vervollständigen. Geben Sie unter `Student ID Number` bitte Ihre Matrikelnummer an, außerdem Ihr Geburtsdatum, Ihre Handynummer ([Wofür soll ich meine Handynummer angeben?]) und Ihren Studiengang an der Universität Mainz. 
+6. Bestätigen Sie Ihre Eingaben, indem Sie auf `Request Account`klicken.
+7. Nun können Sie sich jederzeit auf der Startseite von Sona mit Ihrem JGU Account anmelden, indem Sie auf `Mit JGU-Account Einloggen` klicken. 
+7. Bei Ihrer ersten Anmeldung müssen Sie die Datenschutzrichtlinien von Sona akzeptieren. Zudem können Sie an einer kurzen  Prescreening Befragung teilnehmen, damit Ihnen passgenaue Studien angezeigt und solche Studien ausgeblendet werden, an denen Sie aus formalen Gründen (z.B. aufgrund Ihres Studienfachs) nicht teilnehmen können.
+
+
+
+
+## Wie erstelle ich einen Account bei Sona, wenn ich nicht Student\*in der JGU bin?
+
+1.	Besuchen Sie Sona unter folgendem Link: https://uni-mainz-jgu.sona-systems.com. 
 2.	Klicken Sie nun in der rechten Spalte auf den Knopf `Konto erstellen`. 
 
 
@@ -59,8 +78,8 @@ knitr::include_graphics('images/Folie1.png')
 ```
 
 
-3.	Auf der folgenden Seite finden Sie links eine Anleitung und rechts eine Spalte, in der Sie Ihre Nutzerdaten eintragen können. Welchen Benutzernamen Sie wählen, ist egal, da Sie diesen lediglich für die Anmeldung auf der Website benötigen. Der Benutzername und die E-Mail-Adresse dürfen noch nicht im System vorhanden sein. Falls Sie Psychologiestudierende\*r an der Johannes-Gutenberg-Universität Mainz sind, ist es sehr wichtig, dass Sie Ihre Universitäts-E-Mail-Adresse (endet auf \@students.uni-mainz.de) für die Anmeldung verwenden. Im Feld „Student ID“ geben Sie bitte Ihre Matrikelnummer an.
-4.	Nach der Eingabe Ihrer Daten wird Ihnen zunächst ein Systempasswort per E-Mail zugesendet, das Sie nach Ihrer ersten Anmeldung in Sona ändern können. Diese E-Mail wird innerhalb weniger Minuten versandt. Bitte schauen Sie in ihrem Spam-Ordner nach, falls Sie die E-Mail nicht in Kürze erhalten.
+3.	Auf der folgenden Seite finden Sie links eine Anleitung und rechts eine Spalte, in der Sie Ihre Nutzerdaten eintragen können. Welchen Benutzernamen Sie wählen, ist egal, da Sie diesen lediglich für die Anmeldung auf der Website benötigen. Der Benutzername und die E-Mail-Adresse dürfen noch nicht im System vorhanden sein.
+4.	Nach der Eingabe Ihrer Daten wird Ihnen ein vorläufiges Systempasswort per E-Mail zugesendet, das Sie nach Ihrer ersten Anmeldung in Sona ändern können. Diese E-Mail wird innerhalb weniger Minuten versandt. Bitte schauen Sie in ihrem Spam-Ordner nach, falls Sie die E-Mail nicht in Kürze erhalten.
 
 
 
@@ -102,11 +121,24 @@ knitr::include_graphics('images/Folie3.png')
 4.	Bestätigen Sie Ihre Eingabe, indem Sie den grünen Knopf `Aktualisieren` ganz unten auf der Seite klicken.
 
 
-Ihren Benutzernamen, Ihr Geburtsdatum sowie Ihre Student-ID (Matrikelnummer) können Sie nicht eigenständig ändern. Der genaue Wortlaut Ihres Benutzernamens ist nicht wichtig, da Sie diesen lediglich für den Login für die Website benötigen. Haben Sie allerdings einen Fehler bei der Eingabe Ihres Geburtsdatums oder Ihrer Student-ID (Matrikelnummer) gemacht, schreiben Sie bitte eine E-Mail an die Administration unter sona@uni-mainz.de, um die Daten ändern zu lassen. 
+Ihren (Benutzer-) Namen, Ihr Geburtsdatum sowie Ihre Student-ID (Matrikelnummer) können Sie nicht eigenständig ändern. Der genaue Wortlaut Ihres Benutzernamens ist nicht wichtig, da Sie diesen lediglich für den Login für die Website benötigen. Haben Sie allerdings einen Fehler bei der Eingabe Ihres Namens, Geburtsdatums oder Ihrer Student-ID (Matrikelnummer) gemacht, schreiben Sie bitte eine E-Mail an die Administration unter sona@uni-mainz.de, um die Daten ändern zu lassen. 
 
 
 
 # Studienteilnahme
+
+
+## Welche Arten von Studien gibt es? 
+
+Es gibt zwei Grundlegende Arten von Studien: Laborstudien (auch Standard-Studien) und Online-Studien (auch Webstudien). 
+
+* <b>Laborstudien</b> finden in den Räumen und Laboren des psychologischen Instituts statt. Diese befinden sich in der Binger Straße 14-16, 55112 Mainz oder in der Wallstraße 3. Der genaue Ort und Raum einer Studie steht in ihrer Detailansicht (dafür auf den Titel der Studie klicken). Laborstudien können auch aus mehreren Teilen bestehen (sogenannte Multi-Part Studien). In diesem Fall müssen Sie bei Ihrer Anmeldung zur Studie für jeden Studienteil einen Termin aussuchen. 
+
+* <b>Online-Studien</b> werden an Ihrem PC, Laptop oder Smartphone bearbeitet und können somit jederzeit und an jedem Ort durchgeführt werden. Wir bitten Sie jedoch, alle Online-Studien in einer ruhigen Umgebung ohne Ablenkungen durchzuführen. Nur so kann die Qualität der gesammelten Daten gewährleistet werden.
+Wenn Sie in der Detailansicht einer Online-Studie auf `Zeitfenster für diese Studie ansehen` klicken, wird Ihnen der Teilnahmeschluss der Studie angezeigt. Bis zu diesem Zeitpunkt sollten Sie die Studie bearbeiten. 
+Manche Online-Studien haben Voraussetzungen an das Gerät, an dem Sie die Studie durchführen (z.B. nur am PC/Laptop). Diese Voraussetzungen sind der Detailansicht der Studie zu entnehmen. 
+
+
 
 ## Wie melde ich mich für Studien an?
 
@@ -170,21 +202,9 @@ knitr::include_graphics('images/Folie13.png')
 
 
 
-## Welche Arten von Studien gibt es? 
-
-Es gibt zwei Grundlegende Arten von Studien: Laborstudien (auch Standard-Studien) und Online-Studien (auch Webstudien). 
-
-* <b>Laborstudien</b> finden in den Räumen und Laboren des psychologischen Instituts statt. Diese befinden sich in der Binger Straße 14-16, 55112 Mainz oder in der Wallstraße 3. Der genaue Ort und Raum einer Studie steht in ihrer Detailansicht (dafür auf den Titel der Studie klicken). Laborstudien können auch aus mehreren Teilen bestehen (sogenannte Multi-Part Studien). In diesem Fall müssen Sie bei Ihrer Anmeldung zur Studie für jeden Studienteil einen Termin aussuchen. 
-
-* <b>Online-Studien</b> werden an Ihrem PC, Laptop oder Smartphone bearbeitet und können somit jederzeit und an jedem Ort durchgeführt werden. Wir bitten Sie jedoch, alle Online-Studien in einer ruhigen Umgebung ohne Ablenkungen durchzuführen. Nur so kann die Qualität der gesammelten Daten gewährleistet werden.
-Wenn Sie in der Detailansicht einer Online-Studie auf `Zeitfenster für diese Studie ansehen` klicken, wird Ihnen der Teilnahmeschluss der Studie angezeigt. Bis zu diesem Zeitpunkt sollten Sie die Studie bearbeiten. 
-Manche Online-Studien haben Voraussetzungen an das Gerät, an dem Sie die Studie durchführen (z.B. nur am PC/Laptop). Diese Voraussetzungen sind der Detailansicht der Studie zu entnehmen. 
-
-
-
 # Vergütung und Versuchspersonenstunden 
 
-## Welche Art von Vergütung kann ich für die Teilnahme an einer Studie bekommen?
+## Welche Art von Vergütung kann ich bekommen?
 
 Für die Teilnahme an einer Studie in Sona können Sie <i>entweder</i> Versuchspersonen-Stunden (VP-Stunden) <i>oder</i> Geld erhalten. In einigen Fällen können Sie sich aussuchen, ob Sie die VP-Stunden oder Geld erhalten wollen. Eine doppelte Vergütung (im Sinne von VP-Stunden <i>und</i> Geld oder VP-Stunden <i>und</i> der Teilnahme an einer Lotterie o.Ä.) ist in der Regel nicht vorgesehen. 
 
@@ -192,10 +212,11 @@ Für die Teilnahme an einer Studie in Sona können Sie <i>entweder</i> Versuchsp
 
 ## Wie viele VP-Stunden kann ich für die Teilnahme an einer Studie bekommen? 
 
-Die Anzahl der Versuchspersonen-Stunden (VP-Stunden), die Sie für die Teilnahme an einer Studie erhalten, entspricht der Dauer der Studie. Bei Laborstudien zählt die ggf. nötige Vorbereitung und Nachbereitung des Experiments, bei der Sie anwesend sein müssen, selbstverständlich zur Dauer dazu. Für die zusätzliche Zeit, die bei der An- und Abreise im Rahmen der Teilnahme an Laborstudien anfallen, werden Ihnen zudem zusätzlich 0,25 VP-Stunden Wegzeit gutgeschrieben. Da die kleinste Einheit einer VP-Stunde ein Viertel VP-Stunde (0,25) ist, wird im Zweifelsfall aufgerundet.
+Die Anzahl der Versuchspersonen-Stunden (VP-Stunden), die Sie für die Teilnahme an einer Studie erhalten, entspricht der Dauer der Studie. Bei Laborstudien zählt die ggf. nötige Vorbereitung und Nachbereitung des Experiments selbstverständlich zur Dauer dazu. Da die kleinste Einheit einer VP-Stunde ein halbe VP-Stunde (0,5) ist, wird im Zweifelsfall aufgerundet.
 
-* Beispiel 1: Eine Online-Studie dauert 10 Minuten. Für die Teilnahme erhalten Sie 0,25 VP-Stunden. 
-* Beispiel 2: Eine Laborstudie dauert 70 Minuten (1,25 VP-Stunden). Für die Wegzeit erhalten Sie zusätzlich 0,25 VP-Stunden. Somit erhalten Sie für die Teilnahme an dieser Studie insgesamt 1,5 VP-Stunden. 
+* Beispiel 1: Eine Online-Studie dauert 10 Minuten. Für die Teilnahme erhalten Sie 0,5 VP-Stunden. 
+* Beispiel 2: Eine Laborstudie dauert 75 Minuten. Für die Teilnahme erhalten Sie 1,5 VP-Stunden. 
+
 
 Wie lange eine Studie dauert und wie viele VP-Stunden Sie dafür erhalten, sehen Sie in der Studienübersicht und in der Detailansicht der Studie. Bei Laborstudien kann es vorkommen, dass die Studie länger dauert als geplant. In diesem Fall kann der\*die Forscher\*in die an Sie vergebenen VP-Stunden anpassen. Dies ist ebenso der Fall, wenn Sie eine Laborstudie vorzeitig abbrechen. Dann erhalten Sie so viele VP-Stunden, wie Sie Zeit im Experiment verbracht haben. Für Online-Studien erhalten Sie immer die angegebene Anzahl an VP-Stunden, da nicht geprüft wird, wie lange Sie tatsächlich für die Studie gebraucht haben. 
 
@@ -224,10 +245,10 @@ knitr::include_graphics('images/Folie8.png')
 Um in die Detailansicht zu gelangen, klicken Sie im Menü auf `Meine Teilnahme und Credits`. 
 
 ```{r echo = FALSE, out.width='92%', fig.align='center'}
-knitr::include_graphics('images/Folie9.png')
+knitr::include_graphics('images/Folie6.png')
 ```
 
-* Im oberen Teil der erscheinenden Website sehen Sie eine Übersicht, wie viele VP-Stunden Sie bereits verdient haben, wie viele ausstehend sind und wie viele VP-Stunden Sie für Ihren Kurs insgesamt benötigen. „Ausstehend“ bedeutet, dass Sie bereits an Studien teilgenommen haben, für die Ihnen die dort angezeigte Anzahl an VP-Stunden noch nicht gutgeschrieben wurde.
+* Im oberen Teil der erscheinenden Seite sehen Sie eine Übersicht, wie viele VP-Stunden Sie bereits verdient haben, wie viele ausstehend sind und wie viele VP-Stunden Sie für Ihren Kurs insgesamt benötigen. „Ausstehend“ bedeutet, dass Sie bereits an Studien teilgenommen haben, für die Ihnen die dort angezeigte Anzahl an VP-Stunden noch nicht gutgeschrieben wurde.
 * Im Abschnitt darunter befindet sich eine Auflistung aller Studien, für die Sie angemeldet sind oder an denen Sie bereits teilgenommen haben.
 
 
@@ -242,7 +263,7 @@ Dieser Weg gilt sowohl für VP-Stunden, die Sie bereits vor der Einführung von 
     * Name
     * Studiengang
     * Matrikelnummer 
-    * Benutzername bei Sona
+    * Studentische E-Mail Adresse 
 
 Die Administration wird Ihnen die VP-Stunden binnen eines Monats gutschreiben.  
 
@@ -275,6 +296,7 @@ knitr::include_graphics('images/Folie10.png')
 ## Nutzernamen oder Passwort vergessen?
 
 Wenn Sie Ihren Nutzernamen oder Ihr Passwort vergessen haben, setzen Sie bitte Ihr Passwort zurück. 
+
 1. Besuchen Sie die Startseite von Sona: https://uni-mainz-jgu.sona-systems.com 
 2. Klicken Sie rechts auf den Knopf `Passwort vergessen?`
 
