@@ -1,6 +1,6 @@
 --- 
 title: "Sona Versuchspersonen Handbuch"
-author: "Clara Wiebel"
+author: "Clara Wiebel, José Carlos García Alanis"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
@@ -21,9 +21,14 @@ options(warning.length = 100)
 
 # Allgemeine Informationen
 
-Dies ist das Sona-Handbuch für Versuchspersonen. Falls Sie Forscher\*in sind, gelangen Sie hier (https://amd-lab.github.io/sona-researcher-jgu.html) zum Sona-Handbuch für Forscher\*innen.
+Dies ist das Sona-Handbuch für Versuchspersonen. Das Sona-Handbuch für Forscher\*innen finden Sie unter dieser Adresse:
 
-Sona Website der Universität Mainz: https://uni-mainz-jgu.sona-systems.com
+- https://amd-lab.github.io/sona-researcher-jgu/
+
+Die Sona-Website der Johannes Gutenberg-Universität Mainz finden Sie unter dieser Adresse:
+
+- https://uni-mainz-jgu.sona-systems.com
+
 
 
 ## Was ist Sona und welche Vorteile bietet es?
