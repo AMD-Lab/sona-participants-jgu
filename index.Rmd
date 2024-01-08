@@ -46,7 +46,8 @@ Psychologiestudierende der Johannes-Gutenberg-Universität Mainz müssen als Tei
 
 ## Kann ich auch selbst eine Studie einstellen?
 
-Nein, mit einem Versuchspersonen-Account können Sie selbst keine Studien einstellen. Um Studien bei Sona einstellen zu können, benötigen Sie einen Forschenden-Account. Diesen können nur Mitarbeiter\*innen des Psychologischen Instituts der JGU erhalten. Wenn dies auf Sie zutrifft, wenden Sie sich bitte an die Administration unter sona@uni-mainz.de. Diese wird Ihnen einen Forschenden-Account erstellen.
+Nein, mit einem Versuchspersonen-Account können Sie selbst keine Studien einstellen. Um Studien bei Sona einstellen zu können, benötigen Sie einen Forschenden-Account. Diese Accounts sind nur für Mitarbeiter\*innen (inklusive Hilfskräfte) des Psychologischen Instituts vorgesehen und werden nicht an Studierende vergeben, auch nicht für Abschlussarbeiten. Ob Sie Anspruch auf einen Forschenden-Account haben und wie Sie diesen erhalten lesen Sie im Sona Handbuch für Forschende: https://amd-lab.github.io/sona-researcher-jgu/index.html#wer-kann-einen-forschenden-account-erhalten. 
+
 
 
 
@@ -85,6 +86,7 @@ knitr::include_graphics('images/Folie1.png')
 
 3.	Auf der folgenden Seite finden Sie links eine Anleitung und rechts eine Spalte, in der Sie Ihre Nutzerdaten eintragen können. Welchen Benutzernamen Sie wählen, ist egal, da Sie diesen lediglich für die Anmeldung auf der Website benötigen. Der Benutzername und die E-Mail-Adresse dürfen noch nicht im System vorhanden sein.
 4.	Nach der Eingabe Ihrer Daten wird Ihnen ein vorläufiges Systempasswort per E-Mail zugesendet, das Sie nach Ihrer ersten Anmeldung in Sona ändern können. Diese E-Mail wird innerhalb weniger Minuten versandt. Bitte schauen Sie in ihrem Spam-Ordner nach, falls Sie die E-Mail nicht in Kürze erhalten.
+5. Bei Ihrer ersten Anmeldung müssen Sie die Datenschutzrichtlinien von Sona akzeptieren. Zudem können Sie an einer kurzen  Prescreening Befragung teilnehmen, damit Ihnen passgenaue Studien angezeigt und solche Studien ausgeblendet werden, an denen Sie aus formalen Gründen (z.B. aufgrund Ihrer Eignung für bestimmte Laboruntersuchungen) nicht teilnehmen können.
 
 
 
@@ -258,13 +260,14 @@ knitr::include_graphics('images/Folie6.png')
 
 
 
-## Wie übertrage ich E-Mail/Papier-Belege für VP-Stunden, die ich bereits gesammelt habe, auf mein Sona Konto?
+## Studienortswechsel: Wie übertrage ich Belege für VP-Stunden von anderen Universitäten auf mein Sona Konto?
 
-Dieser Weg gilt sowohl für VP-Stunden, die Sie bereits vor der Einführung von Sona gesammelt haben, als auch für VP-Stunden, die Sie bereits an einer anderen Universität gesammelt haben (z.B. bei Studienortswechsel). Bitte beachten Sie: Wenn Sie VP-Stunden von einer anderen Universität anerkennen lassen wollen, ist dies nur innerhalb Ihres ersten Semesters an der Johannes-Gutenberg-Universität Mainz möglich.  
+
+Bitte beachten Sie: Sie können VP-Stunden, die Sie bereits an einer anderen Universität gesammelt haben (z.B. bei Studienortswechsel), <b>nur innerhalb Ihres ersten Semesters an der Johannes-Gutenberg-Universität Mainz</b> anerkennen lassen. 
 
 1.	Falls Sie Papier-Belege haben, scannen Sie diese zunächst ein. 
 2.	Fassen Sie alle E-Mail-Belege und digitalisierte Papier-Belege in <b>einem</b> PDF-Dokument zusammen. Für die Zusammenfassung von PDF-Dokumenten gibt es zahlreiche Online Tools. 
-3.	Senden Sie dieses <b>eine</b> PDF-Dokument mit dem <b>Betreff „VP-Stunden Anerkennung“</b> und unter der Angabe der folgenden Daten an sona@uni-mainz.de:
+3.	Senden Sie dieses <b>eine</b> PDF-Dokument mit dem Betreff „VP-Stunden Anerkennung“ und unter der Angabe der folgenden Daten an sona@uni-mainz.de:
     * Name
     * Studiengang
     * Matrikelnummer 
@@ -274,7 +277,18 @@ Die Administration wird Ihnen die VP-Stunden binnen eines Monats gutschreiben.
 
 
 
-## Wie reiche ich meine VP-Stunden beim Prüfungsamt ein?
+## Übergangsphase: Was mache ich mit E-Mail/Papier-Belegen für VP-Stunden, die ich bereits an der Universität Mainz gesammelt habe?
+
+Bereits gesammelte E-Mail- und Papier-Belege von Studien an der Universität Mainz werden aufrgund des hohen Verwaltungsaufwands nicht auf Ihr Sona Konto übertragen. Sammeln Sie beim Übergang zu Sona stattdessen all Ihre Belege in einem Dokument und heben Sie dieses gut auf. 
+
+1.	Falls Sie Papier-Belege haben, scannen Sie diese zunächst ein. 
+2.	Fassen Sie alle E-Mail-Belege und digitalisierte Papier-Belege in <b>einem</b> PDF-Dokument zusammen. Für die Zusammenfassung von PDF-Dokumenten gibt es zahlreiche Online Tools. 
+
+Sobald Sie die restlichen VP-Stunden auf Sona gesammelt haben, reichen Sie sowohl das PDF-Dokument der alten Belege als auch die Belege von Sona beim Prüfungsamt ein (siehe [Wie reiche ich meine Sona VP-Stunden beim Prüfungsamt ein?]). 
+
+
+
+## Wie reiche ich meine Sona VP-Stunden beim Prüfungsamt ein?
 
 Sobald Sie alle benötigten VP-Stunden für Ihren Studiengang gesammelt haben, können Sie diese beim Prüfungsamt einreichen. Eine eigenständige Anmeldung in Jogustine ist nicht notwendig. Gehen Sie dabei wie folgt vor.
 
@@ -286,7 +300,10 @@ Sobald Sie alle benötigten VP-Stunden für Ihren Studiengang gesammelt haben, k
 knitr::include_graphics('images/Folie10.png')
 ```
 
-4.	Bitte senden Sie diese PDF-Übersicht zusammen mit Ihrem <b>Namen, Studiengang und Ihrer Matrikelnummer</b> an Pruefungsamt-Psychologie@uni-mainz.de. 
+4.	Senden Sie diese PDF-Übersicht zusammen mit Ihrem <b>Namen, Studiengang und Ihrer Matrikelnummer</b> an Pruefungsamt-Psychologie@uni-mainz.de. Falls Sie vor der Einführung von Sona am Psychologischen Institut der Universität Mainz bereits E-Mail- oder Papier-Belege für VP-Stunden gesammelt haben, fügen Sie diese bitte in <b>einem</b> PDF-Dokument ebenfalls dieser E-Mail bei. 
+
+
+<b>Achtung:</b> Wenn Sie im Bachelor an der Universität Mainz studieren, werden Ihre gesammelten VP-Stunden nach der Anerkennung durch das Psüfungsamt in Sona gelöscht! Der Grund hierfür ist, dass die VP-Stunden wieder auf Null gesetzt werden müssen, für den Fall, dass Sie im Master weiterhin an der Universität Mainz studieren.
 
 
 
@@ -297,6 +314,27 @@ knitr::include_graphics('images/Folie10.png')
 1.	Loggen Sie sich mit Ihrem Sona Account ein.
 2.	Gehen Sie auf `Meine Benutzerdaten` und scrollen Sie nach ganz unten. In den letzten beiden Einstellungen können Sie auswählen, ob Sie Einladungs-E-Mails für Studien erhalten wollen und ob Sie eine wöchentliche E-Mail-Benachrichtigung mit verfügbaren Studien erhalten wollen. 
 3.	Wählen Sie die gewünschte Einstellung aus und klicken Sie auf `Aktualisieren`, damit Ihre Eingabe im System gespeichert wird. 
+
+
+
+
+
+## Kurs Wechseln von Bachelor zu Master
+
+Wenn Sie sowohl den Bachelor als auch den Master Psychologie an der Universität Mainz studieren, können Sie Ihren Kurs selbstständig auf Sona ändern.
+
+1. Loggen Sie sich mit Ihrem Account bei Sona ein.
+2. Klicken Sie auf `Meine Benutzerdaten` oben rechts in der Menüleiste.
+3. Klicken Sie nun in der rechten Spalte auf `Kurse wechseln` und wählen Sie den Kurs "Master Psychologie" aus.
+
+
+```{r echo = FALSE, out.width='92%', fig.align='center'}
+knitr::include_graphics('images/Folie14.png')
+```
+
+
+
+
 
 ## Nutzernamen oder Passwort vergessen?
 
@@ -311,6 +349,8 @@ knitr::include_graphics('images/Folie11.png')
 
 3. Geben Sie im erscheinenden Fenster Ihre E-Mail-Adresse oder Ihren Benutzernamen an. 
 4. Daraufhin wird Ihnen ein Link zum Zurücksetzen Ihres Passworts per E-Mail zugesandt. Dieser Link ist 24 Stunden lang gültig. Sobald Sie auf den Link klicken, wird ein neues Passwort generiert und Ihnen gemeinsam mit Ihrem Nutzernamen per E-Mail zugeschickt. Wenn Sie eine Kennwortzurücksetzung angefordert haben und nach 30 Minuten noch keine E-Mail vom System eingetroffen ist, überprüfen Sie den Junk-Mail-Ordner Ihres E-Mail-Programms. 
+
+
 
 
 ## Sona APP
