@@ -46,7 +46,7 @@ Psychologiestudierende der Johannes-Gutenberg-Universität Mainz müssen als Tei
 
 ## Kann ich auch selbst eine Studie einstellen?
 
-Nein, mit einem Versuchspersonen-Account können Sie selbst keine Studien einstellen. Um Studien bei Sona einstellen zu können, benötigen Sie einen Forschenden-Account. Diese Accounts sind nur für Mitarbeiter\*innen (inklusive Hilfskräfte) des Psychologischen Instituts vorgesehen und werden nicht an Studierende vergeben, auch nicht für Abschlussarbeiten. Ob Sie Anspruch auf einen Forschenden-Account haben und wie Sie diesen erhalten lesen Sie im Sona Handbuch für Forschende: https://amd-lab.github.io/sona-researcher-jgu/index.html#wer-kann-einen-forschenden-account-erhalten. 
+Nein, mit einem Versuchspersonen-Account können Sie selbst keine Studien einstellen. Um Studien bei Sona einstellen zu können, benötigen Sie einen Forschenden-Account. Diese Accounts sind nur für Mitarbeiter\*innen (inklusive Hilfskräfte) des Psychologischen Instituts vorgesehen und werden normalerweise nicht an Studierende vergeben. Ob Sie Anspruch auf einen Forschenden-Account haben und wie Sie diesen erhalten lesen Sie im Sona Handbuch für Forschende: https://amd-lab.github.io/sona-researcher-jgu/index.html#wer-kann-einen-forschenden-account-erhalten. 
 
 
 
