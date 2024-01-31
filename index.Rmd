@@ -25,7 +25,7 @@ Dies ist das Sona-Handbuch für Versuchspersonen. Das Sona-Handbuch für Forsche
 
 - https://amd-lab.github.io/sona-researcher-jgu/
 
-Die Sona-Website der Johannes Gutenberg-Universität Mainz finden Sie unter dieser Adresse:
+Die Sona-Website der Johannes Gutenberg-Universität Mainz finden Sie unter dieser Adresse: 
 
 - https://uni-mainz-jgu.sona-systems.com
 
